@@ -12,5 +12,7 @@ What the project does:
 Suicide rates and mental health crises among students have increased sharply in recent years. Traditional screening relies on manual surveys administered infrequently. An ML-based system can process existing student records and flag high-risk individuals continuously, enabling a data-driven early-warning system for student wellbeing programs.
 
 Credits:
+
 Md. Monkasir Noor Siam  -  monkasir.noor.siam@g.bracu.ac.bd
+
 Ahmed Abu Bakr  -  ahmed.abu.bakar@g.bracu.ac.bd 
