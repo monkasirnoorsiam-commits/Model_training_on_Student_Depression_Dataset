@@ -15,4 +15,4 @@ Credits:
 
 Md. Monkasir Noor Siam  -  monkasir.noor.siam@g.bracu.ac.bd
 
-Ahmed Abu Bakr  -  ahmed.abu.bakar@g.bracu.ac.bd 
+Ahmed Abu Bakar  -  ahmed.abu.bakar@g.bracu.ac.bd 
